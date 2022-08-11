@@ -1,0 +1,29 @@
+\\ moterario, aula de javascritp
+
+> n1.toLocaleString('pt-BR', {style: 'currency' , currency: 'BRL'})
+
+'R$ 1.545,50'
+
+tipos de operadores: aritimeticos, atribuição, relacionais, lógicos e ternário.
+
+Operadores aritimeticos: + - * / % **
+
+n+=4  => n=n+4
+
+aula 8 aula 8 aula 8 operadore relacionais. > <
+
+
+
+> var x =8
+undefined
+> var r = x%2 ==0 ? 5:9
+undefined
+> r
+5
+> var idade = 19
+undefined
+> var i = idade >= 18 ? 'Maior' : 'menor'
+undefined
+> i
+'Maior'
+>
